@@ -1,0 +1,14 @@
+D:\TEST\BAINHOM12\LAB1Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\TEST\BAINHOM12\LAB1Nhom\bin\Debug\LAB2Nhom.exe
+D:\TEST\BAINHOM12\LAB1Nhom\bin\Debug\LAB2Nhom.pdb
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.csproj.AssemblyReference.cache
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form1.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form2.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form3.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form4.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form5.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.csproj.GenerateResource.cache
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.csproj.CoreCompileInputs.cache
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB2Nhom.exe
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB2Nhom.pdb

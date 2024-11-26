@@ -1,0 +1,22 @@
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\bin\Debug\LAB2Nhom.exe.config
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\bin\Debug\LAB2Nhom.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\bin\Debug\LAB2Nhom.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.csproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.Form2.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.Form3.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2013\Projects\LAB2Nhom\obj\Debug\LAB2Nhom.csprojResolveAssemblyReference.cache
+D:\khang\downloads\tap\LAB2Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.exe
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.pdb
+D:\khang\downloads\tap\LAB2Nhom\bin\Debug\LAB2Nhom.exe
+D:\khang\downloads\tap\LAB2Nhom\bin\Debug\LAB2Nhom.pdb
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form1.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form2.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form3.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.csproj.GenerateResource.Cache
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.csprojResolveAssemblyReference.cache

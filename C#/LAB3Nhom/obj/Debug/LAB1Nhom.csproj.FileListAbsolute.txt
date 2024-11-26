@@ -1,0 +1,54 @@
+D:\khang\downloads\tap\LAB2Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\khang\downloads\tap\LAB2Nhom\bin\Debug\LAB2Nhom.exe
+D:\khang\downloads\tap\LAB2Nhom\bin\Debug\LAB2Nhom.pdb
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form1.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form2.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form3.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB1Nhom.csproj.GenerateResource.Cache
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.exe
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.pdb
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form4.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB2Nhom.Form5.resources
+D:\khang\downloads\tap\LAB2Nhom\obj\Debug\LAB1Nhom.csprojResolveAssemblyReference.cache
+D:\khang\downloads\tap\LAB1Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.exe
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.pdb
+D:\khang\downloads\tap\LAB1Nhom\bin\Debug\LAB2Nhom.exe
+D:\khang\downloads\tap\LAB1Nhom\bin\Debug\LAB2Nhom.pdb
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB1Nhom.csprojResolveAssemblyReference.cache
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.Form1.resources
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.Form2.resources
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.Form3.resources
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.Form4.resources
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.Form5.resources
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\khang\downloads\tap\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.GenerateResource.Cache
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\bin\Debug\LAB2Nhom.exe
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\bin\Debug\LAB2Nhom.pdb
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.AssemblyReference.cache
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.Form1.resources
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.Form2.resources
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.Form3.resources
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.Form4.resources
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.Form5.resources
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.GenerateResource.cache
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.CoreCompileInputs.cache
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.exe
+D:\TEST\2033220316-NGUYENHUYBAO + 2033221999- LYGIAKHANG (ĐỒ ÁN MÃ HÓA & ỨNG DỤNG\LAB1Nhom\obj\Debug\LAB2Nhom.pdb
+D:\TEST\BAINHOM12\LAB1Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\TEST\BAINHOM12\LAB1Nhom\bin\Debug\LAB2Nhom.exe
+D:\TEST\BAINHOM12\LAB1Nhom\bin\Debug\LAB2Nhom.pdb
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.AssemblyReference.cache
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.GenerateResource.cache
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB1Nhom.csproj.CoreCompileInputs.cache
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB2Nhom.exe
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB2Nhom.pdb
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form1.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form2.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form3.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form4.resources
+D:\TEST\BAINHOM12\LAB1Nhom\obj\Debug\LAB3Nhom.Form5.resources

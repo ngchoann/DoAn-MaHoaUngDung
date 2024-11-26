@@ -1,0 +1,14 @@
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.csproj.AssemblyReference.cache
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.Form1.resources
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.Form2.resources
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.Form3.resources
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.Form4.resources
+D:\TEST\LAB2Nhom\obj\Debug\LAB2Nhom.Properties.Resources.resources
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.csproj.GenerateResource.cache
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.csproj.CoreCompileInputs.cache
+D:\TEST\LAB2Nhom\obj\Debug\LAB4Nhom.Form5.resources
+D:\TEST\LAB2Nhom\bin\Debug\LAB2Nhom.exe.config
+D:\TEST\LAB2Nhom\bin\Debug\LAB2Nhom.exe
+D:\TEST\LAB2Nhom\bin\Debug\LAB2Nhom.pdb
+D:\TEST\LAB2Nhom\obj\Debug\LAB2Nhom.exe
+D:\TEST\LAB2Nhom\obj\Debug\LAB2Nhom.pdb
